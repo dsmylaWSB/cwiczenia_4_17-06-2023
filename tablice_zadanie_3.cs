@@ -19,5 +19,3 @@ for (int write = 0; write < tablica.Length; write++)
 }
 
 Console.WriteLine(String.Join(", ", tablica));
-
-Console.ReadKey();
